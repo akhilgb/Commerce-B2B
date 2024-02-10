@@ -1,0 +1,68 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "WebStore",
+                "referenceId": "WebStoreRef1"
+            },
+            "CheckoutTimeToLive": 2880,
+            "CheckoutValidAfterDate": null,
+            "Country": "GB",
+            "CurrencyIsoCode": "GBP",
+            "DefaultLanguage": "en_US",
+            "DefaultTaxLocaleType": "Net",
+            "Description": null,
+            "GuestCartTimeToLive": 10080,
+            "MaxValuesPerFacet": 100,
+            "Name": "profitlink",
+            "OptionsAutoFacetingEnabled": false,
+            "OptionsCartToOrderAutoCustomFieldMapping": true,
+            "OptionsCommerceEinsteinActivitiesTracked": false,
+            "OptionsCommerceEinsteinDeployed": false,
+            "OptionsGuestBrowsingEnabled": false,
+            "OptionsGuestCartEnabled": false,
+            "OptionsGuestCheckoutEnabled": false,
+            "OptionsSkipAdditionalEntitlementCheckForSearch": true,
+            "OrderActivationStatus": null,
+            "OrderLifeCycleType": "MANAGED",
+            "PaginationSize": 20,
+            "PricingStrategy": "Priority",
+            "ProductGrouping": "VariationParent",
+            "SupportedCurrencies": "GBP;EUR",
+            "SupportedLanguages": "en_US",
+            "Type": "B2B"
+        },
+        {
+            "attributes": {
+                "type": "WebStore",
+                "referenceId": "WebStoreRef2"
+            },
+            "CheckoutTimeToLive": 2880,
+            "CheckoutValidAfterDate": null,
+            "Country": "GB",
+            "CurrencyIsoCode": "GBP",
+            "DefaultLanguage": "en_US",
+            "DefaultTaxLocaleType": "Net",
+            "Description": null,
+            "GuestCartTimeToLive": 10080,
+            "MaxValuesPerFacet": 100,
+            "Name": "Akhil_test",
+            "OptionsAutoFacetingEnabled": false,
+            "OptionsCartToOrderAutoCustomFieldMapping": true,
+            "OptionsCommerceEinsteinActivitiesTracked": false,
+            "OptionsCommerceEinsteinDeployed": false,
+            "OptionsGuestBrowsingEnabled": false,
+            "OptionsGuestCartEnabled": false,
+            "OptionsGuestCheckoutEnabled": false,
+            "OptionsSkipAdditionalEntitlementCheckForSearch": true,
+            "OrderActivationStatus": null,
+            "OrderLifeCycleType": "MANAGED",
+            "PaginationSize": 20,
+            "PricingStrategy": "LowestPrice",
+            "ProductGrouping": "VariationParent",
+            "SupportedCurrencies": "GBP",
+            "SupportedLanguages": "en_US",
+            "Type": "B2B"
+        }
+    ]
+}

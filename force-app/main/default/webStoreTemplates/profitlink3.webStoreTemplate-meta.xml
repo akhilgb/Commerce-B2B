@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebStoreTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <autoFacetingEnabled>false</autoFacetingEnabled>
+    <cartToOrderAutoCustomFieldMapping>true</cartToOrderAutoCustomFieldMapping>
+    <checkoutTimeToLive>2880</checkoutTimeToLive>
+    <commerceEinsteinActivitiesTracked>false</commerceEinsteinActivitiesTracked>
+    <commerceEinsteinDeployed>false</commerceEinsteinDeployed>
+    <country>GB</country>
+    <defaultCurrency>GBP</defaultCurrency>
+    <defaultLanguage>en_US</defaultLanguage>
+    <defaultTaxLocaleType>Net</defaultTaxLocaleType>
+    <guestBrowsingEnabled>false</guestBrowsingEnabled>
+    <guestCartEnabled>false</guestCartEnabled>
+    <guestCartTimeToLive>10080</guestCartTimeToLive>
+    <guestCheckoutEnabled>false</guestCheckoutEnabled>
+    <masterLabel>profitlink</masterLabel>
+    <maxValuesPerFacet>100</maxValuesPerFacet>
+    <orderLifeCycleType>MANAGED</orderLifeCycleType>
+    <paginationSize>20</paginationSize>
+    <pricingStrategy>Priority</pricingStrategy>
+    <productGrouping>VariationParent</productGrouping>
+    <skipAdditionalEntitlementCheckForSearch>true</skipAdditionalEntitlementCheckForSearch>
+    <supportedCurrencies>GBP;EUR</supportedCurrencies>
+    <supportedLanguages>en_US</supportedLanguages>
+    <supportedShipToCountries>GB</supportedShipToCountries>
+    <type>B2B</type>
+</WebStoreTemplate>

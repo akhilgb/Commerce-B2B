@@ -1,0 +1,10 @@
+[
+    {
+        "sobject": "WebStore",
+        "saveRefs": true,
+        "resolveRefs": false,
+        "files": [
+            "store-config-WebStores.json"
+        ]
+    }
+]
